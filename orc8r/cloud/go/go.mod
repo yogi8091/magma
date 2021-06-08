@@ -36,7 +36,7 @@ require (
 	github.com/go-swagger/go-swagger v0.18.0
 	github.com/go-swagger/scan-repo-boundary v0.0.0-20180623220736-973b3573c013 // indirect
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
-	github.com/golang/protobuf v1.3.3
+	github.com/golang/protobuf v1.4.3
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/handlers v1.4.0 // indirect
 	github.com/labstack/echo v0.0.0-20181123063414-c54d9e8eed6c
@@ -44,12 +44,12 @@ require (
 	github.com/lib/pq v1.2.0
 	github.com/mattn/go-sqlite3 v1.11.0
 	github.com/olivere/elastic/v7 v7.0.6
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/prometheus/alertmanager v0.17.0
-	github.com/prometheus/client_golang v1.2.1
+	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.7.0
-	github.com/prometheus/procfs v0.0.5
+	github.com/prometheus/common v0.26.0
+	github.com/prometheus/procfs v0.6.0
 	github.com/prometheus/prometheus v0.0.0-20190607092147-e23fa22233cf
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/viper v1.3.1 // indirect
@@ -58,11 +58,11 @@ require (
 	github.com/toqueteos/webbrowser v1.1.0 // indirect
 	github.com/vektra/mockery v0.0.0-20181123154057-e78b021dcbb5
 	golang.org/x/lint v0.0.0-20190409202823-959b441ac422
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
+	golang.org/x/net v0.0.0-20200625001655-4c5254603344
 	golang.org/x/tools v0.0.0-20191012152004-8de300cfc20a
 	google.golang.org/grpc v1.27.1
 	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.3.0
 	magma/gateway v0.0.0
 	magma/orc8r/lib/go v0.0.0-00010101000000-000000000000
 	magma/orc8r/lib/go/protos v0.0.0
